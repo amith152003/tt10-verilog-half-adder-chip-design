@@ -110,12 +110,3 @@
 
 ---
 
-## **Create README.md**
-
-A beginner-friendly README should include:  
-1. **Project Overview**  
-2. **How to Use This Template**  
-3. **Setup and Testing Steps**  
-4. **Visualization Tools**  
-5. **Contributing Guidelines**  
-
