@@ -40,8 +40,8 @@
 3. **Update `src/config.json`**  
    Open `config.json` and ensure `CLOCK_PERIOD` is set to 20 for this combinational logic design:
    ```json
-     "//": "The value is in nanoseconds, so 20ns == 50MHz.",
-     "CLOCK_PERIOD": 20,
+   "//": "The value is in nanoseconds, so 20ns == 50MHz.",
+   "CLOCK_PERIOD": 20,
    ```
 
 4. **Modify `info.yaml`**  
