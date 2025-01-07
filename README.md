@@ -109,3 +109,19 @@
 
 ---
 
+## **Final Visualization**
+### **2D Visualization of the Half Adder Chip**
+![2D Visualization](Half_Adder_Design_2D_View.png)
+
+### **3D Visualization of the Half Adder Chip**
+
+1. Overall 3D Visual
+![3D Visualization](Half_Adder_Design_3D_View_1.png)
+
+2. Internal 3D Visual
+![3D Visualization](Half_Adder_Design_3D_View_2.png)
+
+3. Another 3D Visual
+![3D Visualization](Half_Adder_Design_3D_View_3.png)
+
+---
